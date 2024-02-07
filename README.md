@@ -2,7 +2,7 @@
 
 ## Description 
 
-- A meal application that provides details about the recipe and ingredients necessary for meals based on their category. Additionally, it allows the user to mark meals as favorites and filter meals based on their ingredients.
+- A meal application that provides details about the recipe and ingredients necessary for meals based on their category. Additionally, it allows the user to mark meals as favorites and filter meals based on their type of ingredients.
 
 ## Technologies used
 
